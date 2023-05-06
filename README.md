@@ -8,12 +8,6 @@
 - The Great Outdoors. I love anything outside. Cycling, hiking, skiing, etc.
 - My dog, Theo.
 
-### My Goals:
-- I would love to be a part of creating something that positively impacts people in some way.
-- Use my coding knowledge to mentor others wishing to learn.
-- Create some tool or package that improves some part of the development process (No idea what this looks like, *yet*).
-- Receive my Hogwarts letter, which seems to have gotten lost in the post for 16 years.
-
 ### Skills:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
